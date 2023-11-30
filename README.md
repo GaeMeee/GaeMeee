@@ -1,6 +1,6 @@
 # ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=GaeMeee's%20Github&fontSize=60)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaeMeee&show_icons=true&theme=transparent)
-## 🔨  Once I've used 🔨
+##  🔨  Skills 
 ### Language
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
 
